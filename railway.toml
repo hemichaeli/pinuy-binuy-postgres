@@ -1,0 +1,6 @@
+[deploy]
+healthcheckPath = ""
+restartPolicyType = "ALWAYS"
+
+[deploy.healthcheck]
+enabled = false
